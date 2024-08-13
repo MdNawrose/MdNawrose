@@ -13,6 +13,6 @@ Skills: HTML / CSS / C/ C++ / C# / PYTHON
 - 😄 Pronouns: He 
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hey+There!+I'm+Nawrose;Second+line+of+text)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F70C07&width=435&lines=Hey+There!%F0%9F%99%8B%E2%80%8D%E2%99%82%EF%B8%8F+I'm+Nawrose%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;I+am+embracing+the+journey+ahed+of+me+%F0%9F%9A%B6%E2%80%8D%E2%99%82%EF%B8%8F;There's+planty+to+learn+%F0%9F%92%8E)](https://git.io/typing-svg)
 
 
