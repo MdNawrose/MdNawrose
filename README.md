@@ -26,7 +26,9 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
-
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=Nawrose&label=Profile%20Views&color=10&icon=0&pretty=false" />
+</a>
 
 
 
