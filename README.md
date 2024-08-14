@@ -1,5 +1,11 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Arial&size=22&pause=1000&color=5A67CA&width=435&lines=%F0%9D%97%9B%F0%9D%97%B2%F0%9D%98%86+%F0%9D%97%A7%F0%9D%97%B5%F0%9D%97%B2%F0%9D%97%BF%F0%9D%97%B2!%F0%9F%99%8B%E2%80%8D%E2%99%82%EF%B8%8F+%F0%9D%97%A7%F0%9D%97%B5%F0%9D%97%B6%F0%9D%98%80+%F0%9D%97%B6%F0%9D%98%80+%F0%9D%97%A1%F0%9D%97%AE%F0%9D%98%84%F0%9D%97%BF%F0%9D%97%BC%F0%9D%98%80%F0%9D%97%B2%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;%F0%9D%97%9C'%F0%9D%97%BA+%F0%9D%97%B2%F0%9D%97%BA%F0%9D%97%AF%F0%9D%97%BF%F0%9D%97%AE%F0%9D%97%B0%F0%9D%97%B6%F0%9D%97%BB%F0%9D%97%B4+%F0%9D%98%81%F0%9D%97%B5%F0%9D%97%B2+%F0%9D%97%B7%F0%9D%97%BC%F0%9D%98%82%F0%9D%97%BF%F0%9D%97%BB%F0%9D%97%B2%F0%9D%98%86+%F0%9D%97%AE%F0%9D%97%B5%F0%9D%97%B2%F0%9D%97%AE%F0%9D%97%B1+%F0%9D%97%BC%F0%9D%97%B3+%F0%9D%97%BA%F0%9D%97%B2+%F0%9F%9A%B6%E2%80%8D%E2%99%82%EF%B8%8F;%F0%9D%97%A7%F0%9D%97%B5%F0%9D%97%B2%F0%9D%97%BF%F0%9D%97%B2'%F0%9D%98%80+%F0%9D%97%BD%F0%9D%97%B9%F0%9D%97%B2%F0%9D%97%BB%F0%9D%98%81%F0%9D%98%86+%F0%9D%98%81%F0%9D%97%BC+%F0%9D%97%B9%F0%9D%97%B2%F0%9D%97%AE%F0%9D%97%BF%F0%9D%97%BB+%F0%9F%92%8E)](https://git.io/typing-svg)
 ![](https://s7.ezgif.com/tmp/ezgif-7-0b00ad800d.gif)
+
+
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/MdNawrose)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/in/md-nawrose-060650322/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/md.nawroseislam.5)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](md.nawroseislam.5)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/researchgate.svg' alt='researchgate' height='40'>](https://www.researchgate.net/profile/Md-Nawrose?ev=hdr_xprf&_tp=A)  
+
+
 
 
 
