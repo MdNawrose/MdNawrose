@@ -10,8 +10,6 @@
 
 
 
-<hr>
-
 
 <div align="left">
   <a href="https://www.linkedin.com/in/md-nawrose-060650322/" target="_blank">
