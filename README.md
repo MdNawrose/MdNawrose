@@ -1,7 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Arial&size=22&pause=1000&color=5A67CA&width=435&lines=%F0%9D%97%9B%F0%9D%97%B2%F0%9D%98%86+%F0%9D%97%A7%F0%9D%97%B5%F0%9D%97%B2%F0%9D%97%BF%F0%9D%97%B2!%F0%9F%99%8B%E2%80%8D%E2%99%82%EF%B8%8F+%F0%9D%97%A7%F0%9D%97%B5%F0%9D%97%B6%F0%9D%98%80+%F0%9D%97%B6%F0%9D%98%80+%F0%9D%97%A1%F0%9D%97%AE%F0%9D%98%84%F0%9D%97%BF%F0%9D%97%BC%F0%9D%98%80%F0%9D%97%B2%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;%F0%9D%97%9C'%F0%9D%97%BA+%F0%9D%97%B2%F0%9D%97%BA%F0%9D%97%AF%F0%9D%97%BF%F0%9D%97%AE%F0%9D%97%B0%F0%9D%97%B6%F0%9D%97%BB%F0%9D%97%B4+%F0%9D%98%81%F0%9D%97%B5%F0%9D%97%B2+%F0%9D%97%B7%F0%9D%97%BC%F0%9D%98%82%F0%9D%97%BF%F0%9D%97%BB%F0%9D%97%B2%F0%9D%98%86+%F0%9D%97%AE%F0%9D%97%B5%F0%9D%97%B2%F0%9D%97%AE%F0%9D%97%B1+%F0%9D%97%BC%F0%9D%97%B3+%F0%9D%97%BA%F0%9D%97%B2+%F0%9F%9A%B6%E2%80%8D%E2%99%82%EF%B8%8F;%F0%9D%97%A7%F0%9D%97%B5%F0%9D%97%B2%F0%9D%97%BF%F0%9D%97%B2'%F0%9D%98%80+%F0%9D%97%BD%F0%9D%97%B9%F0%9D%97%B2%F0%9D%97%BB%F0%9D%98%81%F0%9D%98%86+%F0%9D%98%81%F0%9D%97%BC+%F0%9D%97%B9%F0%9D%97%B2%F0%9D%97%AE%F0%9D%97%BF%F0%9D%97%BB+%F0%9F%92%8E)](https://git.io/typing-svg)
 
 
-<h1 class="heading-element" dir="auto"></h1>
+<!-- <h1 class="heading-element" dir="auto"></h1> -->
+ <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
 
 ![](https://media.licdn.com/dms/image/v2/D4D22AQF9V6c71WiBGg/feedshare-shrink_800/feedshare-shrink_800/0/1724440570116?e=1727308800&v=beta&t=6Dof-e7EbNWA9ctnj9v-ldoovV9WUaVBnGYJsyNlYX4)
 
@@ -38,13 +40,10 @@
 
 
 # 📊 GitHub Stats
-![](https://github-readme-streak-stats.herokuapp.com/?user=MdNawrose&theme=dark&hide_border=false) <br/> 
-                                                                                                                                                  
-![](https://github-readme-stats.vercel.app/api?username=MdNawrose&theme=dark&hide_border=false&include_all_commits=false&count_private=false  )<br/>
-                                                                                                                                                      
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MdNawrose&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+ <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img height="190em" src="https://github-readme-stats.vercel.app/api?username=MdNawrose&show_icons=true&hide_border=true&count_private=true&"/> 
+<img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MdNawrose&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MdNawrose&&theme=tokyonight" alt="MdNawrose"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=MdNawrose&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in )
