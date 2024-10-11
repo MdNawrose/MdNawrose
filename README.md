@@ -40,10 +40,33 @@
 
 
 # 📊 GitHub Stats
- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-<img height="190em" src="https://github-readme-stats.vercel.app/api?username=MdNawrose&show_icons=true&hide_border=true&count_private=true&"/> 
-<img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MdNawrose&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MdNawrose&&theme=tokyonight" alt="MdNawrose"/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<p align="center">
+  <a href="https://github.com/MdNawrose">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=MdNawrose&theme=radical&border=7F3FBF&background=0D1117" alt="Md Nawrose GitHub streak"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/MdNawrose">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MdNawrose&theme=radical" alt="Md Nawrose GitHub Contribution"/>
+  </a>
+</p>
+
+<a> 
+    <a href="https://github.com/MdNawrose"><img alt="Mahfuz Mia Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=MdNawrose&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/MdNawrose"><img alt=" MdNawrose Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=MdNawrose&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <br/>
+</a>
+
+
+![Md Nawrose's Graph](https://github-readme-activity-graph.vercel.app/graph?username=MdNawrose&custom_title=Md%20Nawrose's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+
+<br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ---
 [![](https://visitcount.itsvg.in/api?id=MdNawrose&icon=0&color=0)](https://visitcount.itsvg.in)
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
